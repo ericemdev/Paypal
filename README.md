@@ -10,7 +10,17 @@ This is a Node.js project that integrates with PayPal's REST API to create and c
 - Basic HTML UI with a Pay Now button
 
 ## Project Structure
+## Project Structure
 
+```plaintext
+project/
+├── index.js              
+├── .env                  
+├── views/
+│   └── pay.ejs           
+├── .gitignore         
+└── README.md             
+```
 
 ## Getting Started
 
